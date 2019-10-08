@@ -80,8 +80,9 @@
 </table>
 
 
-## 若依交流群
+## 若依前后端分离交流群
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 1. xxxx
 2. xxxx
@@ -113,3 +114,6 @@
 =======
 QQ群： [![加入QQ群](https://img.shields.io/badge/12633588-blue.svg)](https://jq.qq.com/?_wv=1027&k=5PjgQ8e)  点击按钮入群。
 >>>>>>> 46444bd0 (RuoYi-Vue 1.0)
+=======
+<img border="0" src="https://oscimg.oschina.net/oscnet/e7d76531a534e51b19b0c5ff89e630399a4.jpg" alt="若依前后端分离" title="若依前后端分离"></a>
+>>>>>>> 4b7400f2 (前后端分离交流群)
