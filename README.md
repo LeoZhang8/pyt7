@@ -84,6 +84,7 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 1. xxxx
 2. xxxx
 3. xxxx
@@ -117,3 +118,6 @@ QQ群： [![加入QQ群](https://img.shields.io/badge/12633588-blue.svg)](https:
 =======
 <img border="0" src="https://oscimg.oschina.net/oscnet/e7d76531a534e51b19b0c5ff89e630399a4.jpg" alt="若依前后端分离" title="若依前后端分离"></a>
 >>>>>>> 4b7400f2 (前后端分离交流群)
+=======
+QQ群： [![加入QQ群](https://img.shields.io/badge/937441-blue.svg)](https://jq.qq.com/?_wv=1027&k=5bVB1og)  点击按钮入群。
+>>>>>>> 66d6a5d0 (若依前后端分离群937441)
